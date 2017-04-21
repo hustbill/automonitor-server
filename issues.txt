@@ -1,0 +1,12 @@
+*** Completed ***
+
+
+*** To do list ***
+
+
+
+*** Issues ****
+
+
+*** Reference ***
+  "website": "https://typesafe.com/activator/template/akka-http-microservice",
